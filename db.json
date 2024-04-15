@@ -1,4 +1,5 @@
-[
+{ "articles":
+  [
   {
     "ids": [
       0
@@ -82,3 +83,4 @@
     "hasUpdate": true
   }
 ]
+}
